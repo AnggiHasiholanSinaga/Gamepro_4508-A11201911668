@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b5f904d056f265940933e707e6c8c96d
+  - enabled: 1
+    path: Assets/Scenes/Newbie.unity
+    guid: 9ef972f0f2b3ffb449cbeca6602f8279
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: edba6836c3cfc214ca5655b23a532751
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: de715061a1a5090469f1ef14f295b08c
+  - enabled: 1
+    path: Assets/Scenes/Help1.unity
+    guid: 62a943aa2b5acbf4db1385b0e33cc376
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 005effed5d1ac8342bc0d1254e4c2f3a
+  - enabled: 1
+    path: Assets/Scenes/Difficulty.unity
+    guid: baeb35701a8903d4fbe368bcc9d6cdc9
+  - enabled: 1
+    path: Assets/Scenes/Normal.unity
+    guid: 91390404b62536c4eb739f929b38b5f0
+  - enabled: 1
+    path: Assets/Scenes/WinNormal.unity
+    guid: 4c4f90141cb8e54498394b1df13e76e0
+  - enabled: 1
+    path: Assets/Scenes/Expert.unity
+    guid: f4530a0c18dcf5d4b87c83e813ea195b
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: cd7d2818187a7a04ebfb2b888233e00c
+  - enabled: 1
+    path: Assets/Scenes/WinBoss.unity
+    guid: 7981d69462c9ba24697215f6269c8c6d
+  - enabled: 1
+    path: Assets/Scenes/Menu+.unity
+    guid: 4bca4f27c0328d142aea36e39b091502
+  - enabled: 1
+    path: Assets/Scenes/Difficulty+.unity
+    guid: 6b012102c2fee1440ae2c0ca6124414f
+  - enabled: 1
+    path: Assets/Scenes/Secret.unity
+    guid: 2757880f56cf4bf4fa25c8879330c669
+  - enabled: 1
+    path: Assets/Scenes/SecretWarning.unity
+    guid: f80c2e6f8b7dd814eb3e1f3d35e260a9
+  - enabled: 1
+    path: Assets/Scenes/Help+.unity
+    guid: 3883d4f02d72ce942b63d73c3aeafeb6
+  - enabled: 1
+    path: Assets/Scenes/Help1+.unity
+    guid: 2d546851f65be31429652de5559506d1
+  - enabled: 1
+    path: Assets/Scenes/Credits+.unity
+    guid: 271832cd420246443b39b004ef88de03
+  - enabled: 1
+    path: Assets/Scenes/LoseSecret.unity
+    guid: fd5197097549964439280f6075caf344
+  m_configObjects: {}
